@@ -1,2 +1,3 @@
 # fetch-example
-NodeJs fetch
+npm init
+npm install node-fetch
